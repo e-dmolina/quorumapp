@@ -2,69 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Aclaraciones
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Hola que tal, la version de node que utilicé es la 14.21.1 y de npm v6.14.17
+Quizas utilicé algunas cosas (redux por ejemplo) que no valian el esfuerzo para una app tan chica pero
+las utilicé para demostrar un poco que se trabajar con estas librerias, entre el trabajo y el bebé no tuve mucho tiempo para dedicarle al challenge pero intente hacer algunos tests unitarios, con mas tiempo podria haber hecho tests sobre la saga, service, slice y el resto de pantallas y utilizar typescript pero queria entregar el trabajo esta semana y ya iba a ser mucho trabajo que quizas me llevaria dos semanas mas, utilicé react ya que los diseños estan para web y queria pegarle una repasada y actualizarme sobre react que hace bastante no la usaba, y para demostrar que no solo se trabajar en mobil.
+Tuve muchisimas dudas durante el desarrollo del challenge, si ubiece sido un ticket en un trabajo real les ubiece llenado de preguntas y propuesto cosas como el de tener varias consultas a servicios diferentes en vez de una sola consulta q traiga todo. se que como lo resolvi no voy a tener datos actualizados ya que hago una llamada al iniciar la app solamente pero lo hice para poder utilizar redux y poder consultar el store desde cada pantalla. Podria haber utilizado pulling tambien para solucionarlo, pero como no es solo un challenge no lo crei necesario.
+cualquier duda que tengan estoy disponible ya sea por mensaje, email o si quieren una llamada, muchas gracias por la oportunidad, Saludos.
